@@ -1,0 +1,57 @@
+Homework 1
+Getting a Clear Visual of Data Visualization – Fall 2024
+What to do:
+• Pick at least two (2) exercises to complete from the list below
+o You may complete any that are interesting or exciting to you. Though you may
+select those which seem easiest, I hope you’ll challenge yourself by picking
+some which align with your interests and help you build your skills.
+• Submit one (1) pdf containing all of your answers to the exercises you’ve
+completed to the assignment on Canvas by the end of day (11:59PM EDT) on
+Friday, September 27th.
+Exercise Set – Pick two (2) to complete:
+• Attend office hours for one (1) of your classes (not this one).
+They can be held by either the instructor or by a TA. After attending, write the
+answers to the following questions:
+o What class’s office hours did you attend?
+o When did you go?
+o Who did you talk to?
+o What is one (1) thing that you talked about or learned from attending?
+▪ Note: if you talked about something personal which you would prefer
+not to share, you can write “We talked about something personal”
+instead.
+• Visit three (3) places that you might want to study or do homework on campus.
+For one (1) of these places:
+o Rate it on a scale from 1 to 5 stars (half stars are allowed)
+o Write a 50 to 100 word Yelp-style review (about the length of this bullet
+point). Don’t worry too much about adhering to a specific style and feel free
+to bring your personality into the review. Ideally, after reading your review,
+other students should be able to get a good feeling about whether that study
+space is right for them (even if it’s not right for you).
+• Create a Github account and make your first repository.
+https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&s
+ource=header-home
+Then, answer the following questions:
+o What is your github username?
+o Provide a link to the repository you created.
+o Use the git commands (add, commit, and push) in a terminal or a GUI-based
+git program (like Github Desktop) to add a file of your choice to the repository.
+For example, you could add this homework document.
+• Watch a video about a great data visualization from this YouTube playlist:
+https://www.youtube.com/playlist?list=PLbzq0eVw_4Dkqd5kuwY3uMANPvVBQ292V
+After watching the video, answer the following questions:
+o Which video did you watch?
+o What is this video’s highlighted visualization about?
+o What does Robert Kosara (the person speaking) argue that this visualization
+does particularly well?
+o What is one (1) lesson from this video that you can apply to the process of
+making a data visualization?
+• Create visualizations using the matplotlib package in python
+Matplotlib Tutorial: https://www.w3schools.com/python/matplotlib_intro.asp
+Python Tutorial: https://www.w3schools.com/python/python_getstarted.asp
+Then, add screenshots of two (2) visualizations you created (e.g., scatter plot, bar
+chart, pie chart, histogram, etc.) to your homework pdf.
+Your visualizations should not be identical to any of the visualizations in the tutorial
+and should include the following:
+o Title
+o Axis labels
+o Data marks (e.g. line(s), dots, bars, pie slices, etc.)
